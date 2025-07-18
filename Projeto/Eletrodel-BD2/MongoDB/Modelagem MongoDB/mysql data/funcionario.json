@@ -1,0 +1,62 @@
+[
+	{
+		"cargo": "Técnico",
+		"nome": "Igor Fernandes",
+		"cpf": "09876543210"
+	},
+	{
+		"cargo": "Técnico",
+		"nome": "Gabriel Souza",
+		"cpf": "10987654321"
+	},
+	{
+		"cargo": "Gerente",
+		"nome": "Juliana Pereira",
+		"cpf": "11111111111"
+	},
+	{
+		"cargo": "Técnico",
+		"nome": "Larissa Oliveira",
+		"cpf": "21098765432"
+	},
+	{
+		"cargo": "Atendente",
+		"nome": "Kátia Silva",
+		"cpf": "22222222222"
+	},
+	{
+		"cargo": "Gerente",
+		"nome": "Roberto Santos",
+		"cpf": "32109876543"
+	},
+	{
+		"cargo": "Atendente",
+		"nome": "Mariana Costa",
+		"cpf": "43210987654"
+	},
+	{
+		"cargo": "Técnico",
+		"nome": "Felipe Lima",
+		"cpf": "54321098765"
+	},
+	{
+		"cargo": "Técnico",
+		"nome": "Cristina Almeida",
+		"cpf": "65432109876"
+	},
+	{
+		"cargo": "Gerente",
+		"nome": "Daniel Ribeiro",
+		"cpf": "76543210987"
+	},
+	{
+		"cargo": "Atendente",
+		"nome": "Eduarda Martins",
+		"cpf": "87654321098"
+	},
+	{
+		"cargo": "Técnico",
+		"nome": "Henrique Gomes",
+		"cpf": "98765432109"
+	}
+]

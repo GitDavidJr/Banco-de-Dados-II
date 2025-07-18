@@ -1,0 +1,62 @@
+[
+	{
+		"nome" : "Redmi Note 10",
+		"id" : 1,
+		"id_marca" : 1
+	},
+	{
+		"nome" : "ZenBook 14",
+		"id" : 2,
+		"id_marca" : 2
+	},
+	{
+		"nome" : "Pavilion 15",
+		"id" : 3,
+		"id_marca" : 3
+	},
+	{
+		"nome" : "ThinkPad X1",
+		"id" : 4,
+		"id_marca" : 4
+	},
+	{
+		"nome" : "Swift 3",
+		"id" : 5,
+		"id_marca" : 5
+	},
+	{
+		"nome" : "Surface Laptop 4",
+		"id" : 6,
+		"id_marca" : 6
+	},
+	{
+		"nome" : "Mate 40 Pro",
+		"id" : 7,
+		"id_marca" : 7
+	},
+	{
+		"nome" : "Moto G100",
+		"id" : 8,
+		"id_marca" : 8
+	},
+	{
+		"nome" : "Nokia 8.3",
+		"id" : 9,
+		"id_marca" : 9
+	},
+	{
+		"nome" : "Satellite Pro",
+		"id" : 10,
+		"id_marca" : 10
+	},
+	{
+		"nome" : "VIERA TX-55",
+		"id" : 11,
+		"id_marca" : 11
+	},
+	{
+		"nome" : "Smart TV 4K",
+		"id" : 12,
+		"id_marca" : 12
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"lote" : "F600",
+		"id" : 1,
+		"valor_unitario" : 350.00,
+		"quantidade" : 12,
+		"nome" : "Câmera Xiaomi Redmi Note 10"
+	},
+	{
+		"lote" : "G700",
+		"id" : 2,
+		"valor_unitario" : 400.00,
+		"quantidade" : 18,
+		"nome" : "Tela Asus ZenBook 14"
+	},
+	{
+		"lote" : "H800",
+		"id" : 3,
+		"valor_unitario" : 200.00,
+		"quantidade" : 25,
+		"nome" : "Touchpad HP Pavilion 15"
+	},
+	{
+		"lote" : "I900",
+		"id" : 4,
+		"valor_unitario" : 450.00,
+		"quantidade" : 30,
+		"nome" : "Bateria Lenovo ThinkPad X1"
+	},
+	{
+		"lote" : "J1000",
+		"id" : 5,
+		"valor_unitario" : 500.00,
+		"quantidade" : 20,
+		"nome" : "Teclado Acer Swift 3"
+	},
+	{
+		"lote" : "K1100",
+		"id" : 6,
+		"valor_unitario" : 600.00,
+		"quantidade" : 15,
+		"nome" : "Tela Microsoft Surface Laptop 4"
+	},
+	{
+		"lote" : "L1200",
+		"id" : 7,
+		"valor_unitario" : 700.00,
+		"quantidade" : 10,
+		"nome" : "Câmera Huawei Mate 40 Pro"
+	},
+	{
+		"lote" : "M1300",
+		"id" : 8,
+		"valor_unitario" : 800.00,
+		"quantidade" : 8,
+		"nome" : "Tela Moto G100"
+	},
+	{
+		"lote" : "N1400",
+		"id" : 9,
+		"valor_unitario" : 900.00,
+		"quantidade" : 5,
+		"nome" : "Bateria Nokia 8.3"
+	},
+	{
+		"lote" : "O1500",
+		"id" : 10,
+		"valor_unitario" : 1000.00,
+		"quantidade" : 12,
+		"nome" : "Teclado Toshiba Satellite Pro"
+	},
+	{
+		"lote" : "P1600",
+		"id" : 11,
+		"valor_unitario" : 1100.00,
+		"quantidade" : 10,
+		"nome" : "Painel OLED Panasonic VIERA TX-55"
+	},
+	{
+		"lote" : "Q1700",
+		"id" : 12,
+		"valor_unitario" : 1200.00,
+		"quantidade" : 8,
+		"nome" : "Alto-falante Philips Smart TV 4K"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"id_servico" : 1,
+		"id_peca" : 1,
+		"qtd" : 1,
+		"valor" : 350.00
+	},
+	{
+		"id_servico" : 2,
+		"id_peca" : 2,
+		"qtd" : 1,
+		"valor" : 400.00
+	},
+	{
+		"id_servico" : 3,
+		"id_peca" : 3,
+		"qtd" : 1,
+		"valor" : 200.00
+	},
+	{
+		"id_servico" : 4,
+		"id_peca" : 4,
+		"qtd" : 1,
+		"valor" : 450.00
+	},
+	{
+		"id_servico" : 5,
+		"id_peca" : 5,
+		"qtd" : 1,
+		"valor" : 500.00
+	},
+	{
+		"id_servico" : 6,
+		"id_peca" : 6,
+		"qtd" : 1,
+		"valor" : 600.00
+	},
+	{
+		"id_servico" : 7,
+		"id_peca" : 7,
+		"qtd" : 1,
+		"valor" : 700.00
+	},
+	{
+		"id_servico" : 8,
+		"id_peca" : 8,
+		"qtd" : 1,
+		"valor" : 800.00
+	},
+	{
+		"id_servico" : 9,
+		"id_peca" : 9,
+		"qtd" : 1,
+		"valor" : 900.00
+	},
+	{
+		"id_servico" : 10,
+		"id_peca" : 10,
+		"qtd" : 1,
+		"valor" : 1000.00
+	},
+	{
+		"id_servico" : 11,
+		"id_peca" : 11,
+		"qtd" : 1,
+		"valor" : 1100.00
+	},
+	{
+		"id_servico" : 12,
+		"id_peca" : 12,
+		"qtd" : 1,
+		"valor" : 1200.00
+	}
+]

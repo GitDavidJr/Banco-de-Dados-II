@@ -1,0 +1,50 @@
+[
+	{
+		"id" : 1,
+		"nome" : "Xiaomi"
+	},
+	{
+		"id" : 2,
+		"nome" : "Asus"
+	},
+	{
+		"id" : 3,
+		"nome" : "HP"
+	},
+	{
+		"id" : 4,
+		"nome" : "Lenovo"
+	},
+	{
+		"id" : 5,
+		"nome" : "Acer"
+	},
+	{
+		"id" : 6,
+		"nome" : "Microsoft"
+	},
+	{
+		"id" : 7,
+		"nome" : "Huawei"
+	},
+	{
+		"id" : 8,
+		"nome" : "Motorola"
+	},
+	{
+		"id" : 9,
+		"nome" : "Nokia"
+	},
+	{
+		"id" : 10,
+		"nome" : "Toshiba"
+	},
+	{
+		"id" : 11,
+		"nome" : "Panasonic"
+	},
+	{
+		"id" : 12,
+		"nome" : "Philips"
+	}
+]

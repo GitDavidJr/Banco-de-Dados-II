@@ -1,0 +1,50 @@
+[
+	{
+		"cpf_funcionario": "09876543210",
+		"telefone" : "61911112222"
+	},
+	{
+		"cpf_funcionario": "10987654321",
+		"telefone" : "71922223333"
+	},
+	{
+		"cpf_funcionario": "11111111111",
+		"telefone" : "81933334444"
+	},
+	{
+		"cpf_funcionario": "21098765432",
+		"telefone" : "91944445555"
+	},
+	{
+		"cpf_funcionario": "22222222222",
+		"telefone" : "61955556666"
+	},
+	{
+		"cpf_funcionario": "32109876543",
+		"telefone" : "71966667777"
+	},
+	{
+		"cpf_funcionario": "43210987654",
+		"telefone" : "81977778888"
+	},
+	{
+		"cpf_funcionario": "54321098765",
+		"telefone" : "91988889999"
+	},
+	{
+		"cpf_funcionario": "65432109876",
+		"telefone" : "61999990000"
+	},
+	{
+		"cpf_funcionario": "76543210987",
+		"telefone" : "71900001111"
+	},
+	{
+		"cpf_funcionario": "87654321098",
+		"telefone" : "81911112222"
+	},
+	{
+		"cpf_funcionario": "98765432109",
+		"telefone" : "91922223333"
+	}
+]
